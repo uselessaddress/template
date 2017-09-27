@@ -1,2 +1,2 @@
-# webpack.config.js
-A fundamental webpack configuration file.
+# template
+A fundamental template config file for front_end work.
